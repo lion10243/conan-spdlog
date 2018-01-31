@@ -2,7 +2,7 @@
 
 | Bintray | Windows | Linux | Macos |
 |---------|------------|--------|------|
-|[ ![Download](https://api.bintray.com/packages/lion10243/conan-spdlog/spdlog/images/download.svg?version=0.16.3) ](https://bintray.com/lion10243/conan-spdlog/spdlog/0.16.3/link)|[![Build status](https://ci.appveyor.com/api/projects/status/aq78q2vjx5iab9jl?svg=true)](https://ci.appveyor.com/project/lion10243/conan-spdlog)|[![Build Status](https://travis-ci.org/lion10243/conan-spdlog.svg?branch=testing%2F0.16.3)](https://travis-ci.org/lion10243/conan-spdlog)|
+|[ ![Download](https://api.bintray.com/packages/lion10243/conan-spdlog/spdlog/images/download.svg?version=0.16.3) ](https://bintray.com/lion10243/conan-spdlog/spdlog/0.16.3/link)|[![Build status](https://ci.appveyor.com/api/projects/status/aq78q2vjx5iab9jl/branch/stable/0.16.3?svg=true)](https://ci.appveyor.com/project/lion10243/conan-spdlog/branch/stable/0.16.3)|[![Build Status](https://travis-ci.org/lion10243/conan-spdlog.svg?branch=stable2F0.16.3)](https://travis-ci.org/lion10243/conan-spdlog)|
 
 ## Conan.io Information
 
